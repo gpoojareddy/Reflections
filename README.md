@@ -1,2 +1,2 @@
 # Reflections
-Udacity: using git and github courde
+Udacity: using git and github course
