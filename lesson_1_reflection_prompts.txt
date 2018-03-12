@@ -32,3 +32,7 @@ could break something?
 Now that you have your workspace set up, what do you want to try using Git for?
 
 ** To solve and practice all my problems.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+** Having the history of a file makes a programmer aware of all the changes ever made and also can identify from where the problem is arising.
