@@ -40,3 +40,7 @@ How could having easy access to the entire history of a file make you a more eff
 Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 
 ** Since Git is more programming oriented, it makes sense to allow saving multiple files in one commit whereas in Google Docs different types of files are used and treated separately.
+
+How can you use the commands git log and git diff to view the history of files?
+
+** git log gave me a summary of all changes/commits that have been done. Especially using git log --stat displayed number of insertions and deletions at each commit. git diff helped in identifying the differences in given files. 
