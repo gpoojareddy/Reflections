@@ -44,3 +44,7 @@ Why do you think some version control systems, like Git, allow saving multiple f
 How can you use the commands git log and git diff to view the history of files?
 
 ** git log gave me a summary of all changes/commits that have been done. Especially using git log --stat displayed number of insertions and deletions at each commit. git diff helped in identifying the differences in given files. 
+
+How might using version control make you more confident to make changes that could break something?
+
+** Git enables one to make changes without having to worry about them because using checkout command you can revert back to the previous vesions and also identify where the bugs have changed the functioning.
