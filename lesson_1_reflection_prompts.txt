@@ -48,3 +48,7 @@ How can you use the commands git log and git diff to view the history of files?
 How might using version control make you more confident to make changes that could break something?
 
 ** Git enables one to make changes without having to worry about them because using checkout command you can revert back to the previous vesions and also identify where the bugs have changed the functioning.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+** I'll try using git for all of my projects, which can make my work efficient.
